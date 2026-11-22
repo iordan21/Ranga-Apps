@@ -9,3 +9,13 @@ tamanho 101366134
 exe Ranga.exe
 args --ranga-emu
 args_tv --tela-cheia --escala=1.35
+app ranga-ytm
+nome Ranga YTM
+versao 1.0.0
+descricao O YouTube Music numa janela leve, com o controle: direcional anda, A toca, Triângulo pausa, LB e RB trocam de música, Quadrado busca com teclado na tela. App não oficial (YouTube Music é marca do Google); você entra na sua própria conta. Não pula propaganda nem baixa música.
+zip https://github.com/iordan21/Ranga-YTM/releases/download/v1.0.0/ranga-ytm-1.0.0.zip
+sha256 2adbf19b3611e91392736098de972ad93ec7470cb7ed61df56a1ad14b69bb093
+tamanho 1041831
+exe RangaYTM.exe
+args --ranga-emu
+args_tv --tela-cheia --escala=1.35

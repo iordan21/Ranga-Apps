@@ -5,6 +5,7 @@ O catálogo da loja **Apps** do [Ranga EMU](https://github.com/iordan21/Ranga-EM
 | App | Código |
 |---|---|
 | Ranga TV | [iordan21/Ranga-TV](https://github.com/iordan21/Ranga-TV) |
+| Ranga YTM | [iordan21/Ranga-YTM](https://github.com/iordan21/Ranga-YTM) |
 
 ## Como funciona
 
