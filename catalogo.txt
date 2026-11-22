@@ -11,21 +11,21 @@ args --ranga-emu
 args_tv --tela-cheia --escala=1.35
 app ranga-ytm
 nome Ranga YTM
-versao 1.4.0
+versao 1.4.1
 descricao O YouTube Music numa janela leve, com o controle: direcional anda, A toca, Triângulo pausa, LB e RB trocam de música, Quadrado busca com teclado na tela. Mini player sempre por cima: fechando a janela (ou Ctrl+M) a música segue só nele; e, jogando, a música nova num cartão discreto no canto. App não oficial (YouTube Music é marca do Google); você entra na sua própria conta. Não pula propaganda nem baixa música.
-zip https://github.com/iordan21/Ranga-YTM/releases/download/v1.4.0/ranga-ytm-1.4.0.zip
-sha256 2641089e150340b93ad8d3f1db10ea8874d697762f510978dc51a2157934d737
-tamanho 1118624
+zip https://github.com/iordan21/Ranga-YTM/releases/download/v1.4.1/ranga-ytm-1.4.1.zip
+sha256 6c8f884952842898f55f36bda6cf19db1c4ae6d6931e8e78346ec1103c673706
+tamanho 1119303
 exe RangaYTM.exe
 args --ranga-emu
 args_tv --tela-cheia --escala=1.35
 app ranga-spot
 nome Ranga Spot
-versao 1.2.0
+versao 1.2.1
 descricao Para ouvir o Spotify numa janela leve, com o controle: direcional anda, A toca, Triângulo pausa, LB e RB trocam de música, Quadrado busca com teclado na tela. Mini player: fechando a janela (ou Ctrl+M) a música segue só nele; e, jogando, a música nova num cartão discreto no canto. App não oficial (Spotify é marca da Spotify AB); você entra na sua própria conta. Não pula propaganda nem baixa música.
-zip https://github.com/iordan21/Ranga-YTM/releases/download/spot-v1.2.0/ranga-spot-1.2.0.zip
-sha256 80f12011f4c36fb612b7109d19d8b36f797b91d93ff7dd650bea1a0e82a9d3aa
-tamanho 1119593
+zip https://github.com/iordan21/Ranga-YTM/releases/download/spot-v1.2.1/ranga-spot-1.2.1.zip
+sha256 c2d59a5fc4c8aae18785342536fe09ede7a87a052abe2b829d43622566720ac4
+tamanho 1120264
 exe RangaSpot.exe
 args --ranga-emu
 args_tv --tela-cheia --escala=1.35
