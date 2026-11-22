@@ -1,4 +1,4 @@
-# Ranga Apps
+﻿# Ranga Apps
 
 O catálogo da loja **Apps** do [Ranga EMU](https://github.com/iordan21/Ranga-EMU): os programas de Windows que abrem por ela, com o controle.
 
@@ -6,6 +6,7 @@ O catálogo da loja **Apps** do [Ranga EMU](https://github.com/iordan21/Ranga-EM
 |---|---|
 | Ranga TV | [iordan21/Ranga-TV](https://github.com/iordan21/Ranga-TV) |
 | Ranga YTM | [iordan21/Ranga-YTM](https://github.com/iordan21/Ranga-YTM) |
+| Ranga Spot | [iordan21/Ranga-YTM](https://github.com/iordan21/Ranga-YTM) (mesmo codigo) |
 
 ## Como funciona
 
