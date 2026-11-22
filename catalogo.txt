@@ -1,0 +1,11 @@
+ranga-apps 1
+app ranga-tv
+nome Ranga TV
+versao 1.2.0
+descricao Player de IPTV: os canais abertos com o sinal oficial das emissoras (TV Brasil, TV Cultura, TV Câmara e outros), sem conta, e a sua lista IPTV (Xtream), se você tiver uma. Não traz lista nem canal pago. Anda com o controle: direcional, A abre, B volta, LB e RB trocam de aba.
+zip https://github.com/iordan21/Ranga-TV/releases/download/v1.2.0/ranga-tv-1.2.0.zip
+sha256 263c5d7c0a0918f88e8fcbe020097c78af2e25fb9c1abd7ef22e3d1072af4bc8
+tamanho 101363383
+exe Ranga.exe
+args --ranga-emu
+args_tv --tela-cheia --escala=1.35
