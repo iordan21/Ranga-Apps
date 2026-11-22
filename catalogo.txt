@@ -1,31 +1,31 @@
 ranga-apps 1
 app ranga-tv
 nome Ranga TV
-versao 1.2.1
+versao 1.3.0
 descricao Player de IPTV: os canais abertos com o sinal oficial das emissoras (TV Brasil, TV Cultura, TV Câmara e outros), sem conta, e a sua lista IPTV (Xtream), se você tiver uma. Não traz lista nem canal pago. Anda com o controle: direcional, A abre, B volta, LB e RB trocam de aba.
-zip https://github.com/iordan21/Ranga-TV/releases/download/v1.2.1/ranga-tv-1.2.1.zip
-sha256 861a88fce3e5c91ef9e9ce2a826e1e575c65512461ec2d1d21733133e1eead23
-tamanho 101366134
+zip https://github.com/iordan21/Ranga-TV/releases/download/v1.3.0/ranga-tv-1.3.0.zip
+sha256 254e3e574f3060b14202c73824cf19ac4376cb1ba0f8203bd3c774e17be3b751
+tamanho 103019353
 exe Ranga.exe
 args --ranga-emu
 args_tv --tela-cheia --escala=1.35
 app ranga-ytm
 nome Ranga YTM
-versao 1.4.1
+versao 1.5.0
 descricao O YouTube Music numa janela leve, com o controle: direcional anda, A toca, Triângulo pausa, LB e RB trocam de música, Quadrado busca com teclado na tela. Mini player sempre por cima: fechando a janela (ou Ctrl+M) a música segue só nele; e, jogando, a música nova num cartão discreto no canto. App não oficial (YouTube Music é marca do Google); você entra na sua própria conta. Não pula propaganda nem baixa música.
-zip https://github.com/iordan21/Ranga-YTM/releases/download/v1.4.1/ranga-ytm-1.4.1.zip
-sha256 6c8f884952842898f55f36bda6cf19db1c4ae6d6931e8e78346ec1103c673706
-tamanho 1119303
+zip https://github.com/iordan21/Ranga-YTM/releases/download/v1.5.0/ranga-ytm-1.5.0.zip
+sha256 48665d42c9fb5ee226893cd7203f857a03b77f61528bf7fbd5402c6fd5296c7d
+tamanho 1125275
 exe RangaYTM.exe
 args --ranga-emu
 args_tv --tela-cheia --escala=1.35
 app ranga-spot
 nome Ranga Spot
-versao 1.2.1
+versao 1.3.0
 descricao Para ouvir o Spotify numa janela leve, com o controle: direcional anda, A toca, Triângulo pausa, LB e RB trocam de música, Quadrado busca com teclado na tela. Mini player: fechando a janela (ou Ctrl+M) a música segue só nele; e, jogando, a música nova num cartão discreto no canto. App não oficial (Spotify é marca da Spotify AB); você entra na sua própria conta. Não pula propaganda nem baixa música.
-zip https://github.com/iordan21/Ranga-YTM/releases/download/spot-v1.2.1/ranga-spot-1.2.1.zip
-sha256 c2d59a5fc4c8aae18785342536fe09ede7a87a052abe2b829d43622566720ac4
-tamanho 1120264
+zip https://github.com/iordan21/Ranga-YTM/releases/download/spot-v1.3.0/ranga-spot-1.3.0.zip
+sha256 a2603b5457836cfd8c123903be21e422eab0b2119cc74decc8a0dd6660811d9c
+tamanho 1126115
 exe RangaSpot.exe
 args --ranga-emu
 args_tv --tela-cheia --escala=1.35
