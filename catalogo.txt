@@ -11,21 +11,21 @@ args --ranga-emu
 args_tv --tela-cheia --escala=1.35
 app ranga-ytm
 nome Ranga YTM
-versao 1.2.0
-descricao O YouTube Music numa janela leve, com o controle: direcional anda, A toca, Triângulo pausa, LB e RB trocam de música, Quadrado busca com teclado na tela. Mini player sempre por cima e, jogando, a música nova num cartão discreto no canto. App não oficial (YouTube Music é marca do Google); você entra na sua própria conta. Não pula propaganda nem baixa música.
-zip https://github.com/iordan21/Ranga-YTM/releases/download/v1.2.0/ranga-ytm-1.2.0.zip
-sha256 f43980ed6e6b14ccf3b10fde4f9765d7ed0498708deb74ce16ef6ee72323a7d1
-tamanho 1081357
+versao 1.3.0
+descricao O YouTube Music numa janela leve, com o controle: direcional anda, A toca, Triângulo pausa, LB e RB trocam de música, Quadrado busca com teclado na tela. Mini player sempre por cima (Ctrl+M deixa só ele) e, jogando, a música nova num cartão discreto no canto. App não oficial (YouTube Music é marca do Google); você entra na sua própria conta. Não pula propaganda nem baixa música.
+zip https://github.com/iordan21/Ranga-YTM/releases/download/v1.3.0/ranga-ytm-1.3.0.zip
+sha256 c47654d7c317e86c0f98bd7c40f6a4a1fb7611ccee6ae87d8d8d0d6ca27277c9
+tamanho 1118553
 exe RangaYTM.exe
 args --ranga-emu
 args_tv --tela-cheia --escala=1.35
 app ranga-spot
 nome Ranga Spot
-versao 1.0.0
-descricao Para ouvir o Spotify numa janela leve, com o controle: direcional anda, A toca, Triângulo pausa, LB e RB trocam de música, Quadrado busca com teclado na tela. Mini player e, jogando, a música nova num cartão discreto no canto. App não oficial (Spotify é marca da Spotify AB); você entra na sua própria conta. Não pula propaganda nem baixa música.
-zip https://github.com/iordan21/Ranga-YTM/releases/download/spot-v1.0.0/ranga-spot-1.0.0.zip
-sha256 d831d33943c37a12fbfcb18c3457cba17c15b3c164a1a98753503d9203eb8847
-tamanho 1082346
+versao 1.1.0
+descricao Para ouvir o Spotify numa janela leve, com o controle: direcional anda, A toca, Triângulo pausa, LB e RB trocam de música, Quadrado busca com teclado na tela. Mini player (Ctrl+M deixa só ele) e, jogando, a música nova num cartão discreto no canto. App não oficial (Spotify é marca da Spotify AB); você entra na sua própria conta. Não pula propaganda nem baixa música.
+zip https://github.com/iordan21/Ranga-YTM/releases/download/spot-v1.1.0/ranga-spot-1.1.0.zip
+sha256 86fddcc2544358793dc05cb6690c80610c2288ad348635fbeb6db464b325c37a
+tamanho 1119540
 exe RangaSpot.exe
 args --ranga-emu
 args_tv --tela-cheia --escala=1.35
