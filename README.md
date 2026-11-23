@@ -1,4 +1,4 @@
-﻿# Ranga Apps
+# Ranga Apps
 
 O catálogo da loja **Apps** do [Ranga EMU](https://github.com/iordan21/Ranga-EMU): os programas de Windows que abrem por ela, com o controle.
 
@@ -20,3 +20,7 @@ O catálogo da loja **Apps** do [Ranga EMU](https://github.com/iordan21/Ranga-EM
 2. Atualizar `versao`, `zip`, `sha256` e `tamanho` em `catalogo.txt`.
 3. No PC que publica: `C:\ps5\RangaEmu.exe --assinar-catalogo "C:\projetos\Ranga-Apps\catalogo.txt"` (o resultado sai em `C:\ps5\salas\publicar.log`).
 4. Novo release aqui com `catalogo.txt` e `catalogo.sig`, marcado como o último.
+
+## Licença
+
+MIT (veja [LICENSE](LICENSE)). Vale para o catálogo: cada app tem a licença do repositório dele.
